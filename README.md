@@ -1,5 +1,5 @@
 # AminoMessage
-تايتس خثخب
+ غنسك مبةسمس م3ح2ني نيمسمسحص تايتس خثخاتسب
 But this outfilled my power to crack amino? :D
 
 - // Author
