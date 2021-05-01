@@ -1,0 +1,17 @@
+# Для пользователей линуксов
+
+Для понятия: Скрипт можно запустить через командную строку, для опытных в нём
+думаю, не стоит, а для новичков будет расписанный гайд.
+
+Самая лёгкая из частей, это запустить терминал и затем, прописываем такие
+значение: chmod +x script.py(), потом после этих манипуляцией, прописываем
+это: chmod +x script.sh, затем  "./script.sh"
+
+# For Linux users
+
+For the concept: The script can be run via the command line, for the experienced in it
+I think it is not necessary, but for beginners there will be a painted guide.
+
+The easiest part is to start the terminal and then write the
+following value: chmod +x script.py (), then after these manipulations, we prescribe 
+this is: chmod +x script.sh, then". /script.sh"
