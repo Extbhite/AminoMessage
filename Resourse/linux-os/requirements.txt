@@ -2,3 +2,4 @@ Amino.py==1.2.11.8
 gTTS
 colorama
 config
+pyfiglet
