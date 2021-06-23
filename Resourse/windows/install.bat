@@ -1,6 +1,7 @@
 @echo off
-pip install Amino.py==1.2.11.8
+pip install Amino.py
 pip install gTTS
 pip install colorama
 pip install config
+pip install pyfiglet
 pause>nul
