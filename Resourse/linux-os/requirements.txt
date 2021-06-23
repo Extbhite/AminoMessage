@@ -1,4 +1,4 @@
-Amino.py==1.2.11.8
+Amino.py
 gTTS
 colorama
 config
