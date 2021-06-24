@@ -61,7 +61,7 @@ if selectnum == "1":
     try:
         client.login(email=email, password=password)
     except:
-        print("Incorrent password, try again!")
+        print("Incorrect password or email, try again!")
         _exit(1)
     clients = client.sub_clients(size=100)
     for x, name in enumerate(clients.name, 1):
