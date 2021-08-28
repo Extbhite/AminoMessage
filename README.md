@@ -1,6 +1,7 @@
 # AminoMessage
-ني نيمسمسحص تايتس خثاتسب
-But this outfilled my power to crack amino? :D
+
+#### Warning
+Amino.py прекратил своё существование, и он больше не работает по той иной причине — разработчики его пофиксили. Теперь вместо правильной работоспособности — "Invalid Request".
 
 - // Author
 - whoname00
