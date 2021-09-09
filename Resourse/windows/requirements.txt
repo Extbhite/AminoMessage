@@ -1,5 +1,0 @@
-Amino.py
-gTTS
-colorama
-config
-pyfiglet
