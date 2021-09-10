@@ -31,7 +31,7 @@ print(f"""
 Script by whoname00
 telegram — {telegramtag}(none — without tag)
 """)
-print(pyfiglet.figlet_format("AminoMsg", font="bublhead"))
+print(pyfiglet.figlet_format("AminoMsg", font="bulbhead"))
 print(f"Version the script : {ver}\n")
 # * ///
 
